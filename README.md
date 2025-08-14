@@ -12,7 +12,7 @@ This is a Machine Learning application built with **Streamlit** that predicts po
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/symptom2disease.git
+git clone https://github.com/ridwanoduola/symptom2disease.git
 cd symptom2disease
 pip install -r requirements.txt
 ```
